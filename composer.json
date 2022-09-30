@@ -1,7 +1,7 @@
 {
-    "name": "lwwcas/laravel-countries",
-    "description": "A list of all countries, optimized for Laravel 8",
-    "homepage": "https://github.com/lwwcas/laravel-countries",
+    "name": "indeximstudio/laravel-countries_new",
+    "description": "A list of all countries, optimized for Laravel 9",
+    "homepage": "https://github.com/indeximstudio/laravel-countries_new",
     "type": "library",
     "license": "MIT",
     "minimum-stability": "dev",
